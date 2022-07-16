@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    ViNote is a simple note app based on Flutter.
+    ViNote is a simple and offline note app based on Flutter.
 This application is made to complete the submission of <a href="https://www.dicoding.com/academies/159">Belajar Membuat Aplikasi Flutter untuk Pemula</a>
 </p>
 

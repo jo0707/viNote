@@ -17,9 +17,9 @@ This application is made to complete the submission of <a href="https://www.dico
     * <a href="https://pub.dev/packages/shared_preferences">Shared preferences</a>
 
 ## Preview
-<img src="screenshots/name_screen.jpg" width="23%"/>
-<img src="screenshots/home_screen.jpg" width="23%"/>
-<img src="screenshots/edit_screen.jpg" width="23%"/>
+<img src="screenshots/name_screen.jpg" width="30%"/>
+<img src="screenshots/home_screen.jpg" width="30%"/>
+<img src="screenshots/edit_screen.jpg" width="30%"/>
 
 ## App
 You can see a web demo here : [Vinote Web Demo](https://jo0707.github.io/viNote)

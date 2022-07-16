@@ -19,7 +19,7 @@ This application is made to complete the submission of <a href="https://www.dico
 ## App
 You can see a web demo here : [Vinote Web Demo](https://jo0707.github.io/viNote)
 
-Find app for other platforms here : [Vinote Releases](https://jo0707.github.io/viNote)
+Find app for other platforms here : [Vinote Releases](https://github.com/jo0707/viNote/releases)
 
 
 ## Preview

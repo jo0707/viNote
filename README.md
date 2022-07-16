@@ -1,16 +1,35 @@
-# vinote
+<h1 align="center">ViNote</h1>
 
-A new Flutter project.
+<p align="center">
+  <img src="screenshots/banner.jpg"  />
+</p>
 
-## Getting Started
+<p align="center">
+    ViNote is a simple note app based on Flutter.
+This application is made to complete the submission of <a href="https://www.dicoding.com/academies/159">Belajar Membuat Aplikasi Flutter untuk Pemula</a>
+</p>
 
-This project is a starting point for a Flutter application.
+## Details
+* #### Framework
+  * Flutter 3.0.1
+* #### Libraries
+    * <a href="https://pub.dev/packages/hive">Hive</a>
+    * <a href="https://pub.dev/packages/shared_preferences">Shared preferences</a>
 
-A few resources to get you started if this is your first Flutter project:
+## Preview
+<img src="screenshots/name_screen.jpg" width="23%"/>
+<img src="screenshots/home_screen.jpg" width="23%"/>
+<img src="screenshots/edit_screen.jpg" width="23%"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App
+You can see a web demo here : [Vinote Web Demo](https://jo0707.github.io/viNote)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Find app for other platforms here : [Vinote Releases](https://jo0707.github.io/viNote)
+
+## Note
+#### This project is published only as a reference for friends, especially those who are studying at Dicoding. Do not plagiarize this project because there is no knowledge gained.
+
+Dicoding class link : [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159)
+
+## Credit
+* ### Joshua Sinaga
